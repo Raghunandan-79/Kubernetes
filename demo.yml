@@ -1,0 +1,18 @@
+key: value
+name: shubham
+
+courses:
+  - DevOps
+  - AWS
+  - Python
+  - GenAI
+
+info:
+  name: shubham
+  age: 28
+  channel: TrainWithShubham
+  jobs:
+    - remote
+    - YT
+    - Live Courses
+    - Community builders/Speakers
